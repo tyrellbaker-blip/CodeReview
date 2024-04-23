@@ -283,7 +283,7 @@ public class Main {
                     break;
                 default:
 
-                    System.out.println("whoops! "+input+", is an  invalid input!");
+                    System.out.println("Whoops! "+input+", is an  invalid input!");
                     break;
 
             }
